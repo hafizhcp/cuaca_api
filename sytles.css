@@ -1,0 +1,35 @@
+.container {
+    width: 400px;
+    padding:50px;
+}
+input {
+    padding: 5px;
+}
+button {
+    background-color: rgb(15 217 233 / 83%);
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: 2px solid mintcream;
+    font-size: 16px;
+}
+
+.city {
+    margin-bottom: 15px;
+    background-color: #4949af;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+    color: ghostwhite;
+}
+
+.temp {
+    border-radius: 10px;
+    background-color: #012443;
+    color: rgb(211, 211, 211);
+    display: inline-block;
+    padding: 5px 8px;
+}
+
+
+
